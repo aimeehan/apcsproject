@@ -28,9 +28,14 @@ header nav ul li {
   display: inline;
 }
 
+#projects {
+    line-height: 1.5em;
+    margin: 0 auto; 
+    width: 90%; 
+
 #project-container, #aboutme {
   margin: 0 auto; 
-  width: 1000%; 
+  width: 90%; 
   max-width: 600px; 
 }
 
