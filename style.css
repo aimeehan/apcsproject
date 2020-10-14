@@ -28,12 +28,6 @@ header nav ul li {
   display: inline;
 }
 
-#project-container {
-    line-height: 1.5em;
-    margin: 0 auto; 
-    width: 90%;
-}
-
 #project-container, #aboutme {
   margin: 0 auto; 
   width: 90%; 
@@ -56,4 +50,11 @@ header nav ul li {
 .project h2, #aboutme h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
+}
+
+#project-container {
+  line-height: 2em;
+    margin: 0 auto; 
+    width: 90%; 
+    max-width: 1000px; 
 }
