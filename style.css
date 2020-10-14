@@ -17,11 +17,11 @@ a:hover {
 header {
   margin-bottom: 20px;
   padding: 20px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(125, 122, 121);
 }
 
 header h1 {
-  font-size: 2em;
+  font-size: 3em;
 }
 
 header nav ul li {
@@ -37,7 +37,7 @@ header nav ul li {
 .project {
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 1px solid rgb(0, 174, 255);
+  border-bottom: 1px solid rgb(125, 122, 121);
 }
 
 .project img, #aboutme img {
